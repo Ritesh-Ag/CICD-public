@@ -28,7 +28,13 @@ class TestFragment : Fragment() {
             param1 = it.getString(ARG_PARAM1)
             param2 = it.getString(ARG_PARAM2)
         }
-        Log.d("test","test")
+        Log.d("test","reposync")
+        Log.d("test","reposync")
+        Log.d("test","reposync")
+        Log.d("test","reposync")
+        Log.d("test","reposync")
+        Log.d("test","reposync")
+        Log.d("test","reposync")
     }
 
     override fun onCreateView(
