@@ -15,5 +15,5 @@ jobs:
         run: |
           git status
           git checkout master
-          git remote add privateRepo https://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@github.com/Ritesh-Ag/CICD-private.git
+          git remote add privateRepo https://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@github.com/Ritesh-Ag/CICD-private.git
           git push privateRepo master
